@@ -34,3 +34,5 @@ ER- DIAGRAM
                                 │ location            │
                                 │ is_fraud            │
                                 └────────────────────┘
+QUERIES :
+
