@@ -1,7 +1,7 @@
 # DBMS-PROJECT
 # 💳 Fraud Detection with SQL
 
-This project uses SQL to identify potentially fraudulent financial transactions using various anomaly detection techniques. It includes database schema, sample data, detection queries, and reports.
+This project uses SQL to identify potentially fraudulent financial transactions using various anomaly detection techniques. It includes database schema, sample data, detection queries.
 
 ## 📁 Project Structure
 
