@@ -1,0 +1,26 @@
+fraud-detection-sql/
+│
+├── README.md
+├── LICENSE
+│
+├── schema/
+│   └── create_tables.sql
+│
+├── data/
+│   ├── insert_sample_data.sql
+│   └── sample_dataset.csv
+│
+├── queries/
+│   ├── high_value_transactions.sql
+│   ├── rapid_multiple_transactions.sql
+│   ├── location_anomalies.sql
+│   └── mark_fraud_transactions.sql
+│
+├── views/
+│   └── fraud_summary_view.sql
+│
+├── reports/
+│   └── fraud_report.md
+│
+└── erd/
+    └── erd.png
